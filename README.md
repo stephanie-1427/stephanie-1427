@@ -7,12 +7,10 @@
 🌱 Currently learning C/C++ and Unity</br>
 </br>
 🏗 Current projects I'm working on:</br>
-</br>
 - UCI CareTech Alzheimer's Disease Management App</br>
 - My first indie game!</br>
 </br>
 📋 Future Plans:</br>
-</br>
 - Certifications</br>
 - Learning new languages and game engines</br>
 </br>

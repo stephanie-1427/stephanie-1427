@@ -18,7 +18,7 @@
 ⚡ <b>Fun fact:</b> I love Green Thai Tea and crocheting!</br>
 </br>
 
-# Check out my Itch.io page!
+# 👾 Check out my Itch.io page!
 [Stephanie L on Itch.io](https://lilstefeezy.itch.io)
 
 # 🌐 Socials: 

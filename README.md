@@ -8,6 +8,7 @@
 </br>
 🏗 <b>Current projects I'm working on:</b></br>
 - UCI CareTech Alzheimer's Disease Management App</br>
+- 2D pixel art for [Dungeon Dilemma](https://fire05s.itch.io/dungeon-dilemma)</br>
 - My first indie game!</br>
 
 📋 <b>Future Plans:</b></br>
@@ -16,6 +17,9 @@
 
 ⚡ <b>Fun fact:</b> I love Green Thai Tea and crocheting!</br>
 </br>
+
+# Check out my Itch.io page!
+[Stephanie L on Itch.io](https://lilstefeezy.itch.io)
 
 # 🌐 Socials: 
 

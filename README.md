@@ -4,7 +4,7 @@
 🧠 Minoring in Health Informatics</br>
 💻 I love making games and finding ways to advance healthcare technology</br>
 🤔 I’m looking to get into Game Development or Health Informatics/Technology (email me w/ opportunities)</br>
-🌱 Currently learning C/C++ and Unity</br>
+🌱 Currently learning C# and Unity</br>
 </br>
 🏗 <b>Current projects I'm working on:</b></br>
 - UCI CareTech Alzheimer's Disease Management App</br>

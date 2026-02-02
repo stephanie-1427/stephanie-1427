@@ -17,7 +17,9 @@
 
 ⚡ <b>Fun fact:</b> I love Green Thai Tea and crocheting!</br>
 
-🎮 <b>Current games I'm playing:</b> Slime Rancher 2</br>Dave the Diver</br>
+🎮 <b>Current games I'm playing:</b></br>
+- Slime Rancher 2</br>
+- Dave the Diver</br>
 
 </br>
 

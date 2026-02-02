@@ -16,6 +16,9 @@
 - Learning new languages and game engines</br>
 
 ⚡ <b>Fun fact:</b> I love Green Thai Tea and crocheting!</br>
+
+🎮 <b>Current games I'm playing:</b> Slime Rancher 2</br>Dave the Diver</br>
+
 </br>
 
 # 👾 Check out my Itch.io page!

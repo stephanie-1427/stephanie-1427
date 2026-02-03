@@ -45,13 +45,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=stephanie-1427&theme=calm_pink&hide_border=true&include_all_commits=true&count_private=true)
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=stephanie-1427&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=stephanie-1427&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=stephanie-1427&icon=3&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

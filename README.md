@@ -7,8 +7,8 @@
 🌱 Currently learning C# and Unity</br>
 </br>
 🏗 <b>Current projects I'm working on:</b></br>
-- Building my first LLM</br>
-- Building a cooking game inspired by the Papa's Games</br>
+- My first LLM</br>
+- A cooking game inspired by the Papa's Games</br>
 - CareTech's 2026-2027 project</br>
 - Check out the 2D pixel art I did for [Dungeon Dilemma](https://store.steampowered.com/app/4535970/Dungeon_Dilemma/) on Steam</br>
 

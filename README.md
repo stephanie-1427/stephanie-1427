@@ -3,17 +3,18 @@
 📚 Computer Science student at UCI</br>
 🧠 Minoring in Health Informatics</br>
 💻 I love making games and finding ways to advance healthcare technology</br>
-🤔 I’m looking to get into Game Development or Health Informatics/Technology (email me w/ opportunities)</br>
+🤔 I want to build software that makes an impact</br>
 🌱 Currently learning C# and Unity</br>
 </br>
 🏗 <b>Current projects I'm working on:</b></br>
-- UCI CareTech Alzheimer's Disease Management App</br>
-- 2D pixel art for [Dungeon Dilemma](https://fire05s.itch.io/dungeon-dilemma)</br>
-- My first indie game!</br>
+- Building my first LLM</br>
+- Building a cooking game inspired by the Papa's Games</br>
+- CareTech's 2026-2027 project</br>
+- Check out the 2D pixel art I did for [Dungeon Dilemma](https://store.steampowered.com/app/4535970/Dungeon_Dilemma/) on Steam</br>
 
 🎮 <b>Current games I'm playing:</b></br>
-- Slime Rancher 2</br>
-- Dave the Diver</br>
+- The Sims 4</br>
+- Tall Trails</br>
 
 📋 <b>Future Plans:</b></br>
 - Certifications</br>
